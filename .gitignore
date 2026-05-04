@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.local
+*.txt
+server_old.js
+golpes_database.json
+npm-debug.log

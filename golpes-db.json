@@ -1,0 +1,424 @@
+{
+  "cases": [
+    {
+      "id": 1777555615271,
+      "createdAt": "2026-04-30T13:26:55.271Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "golpe de investimento com pirâmide financeira",
+      "structure": "promessa de lucro fixo diário + uso de IA/blockchain + indicação para dobrar rendimento",
+      "signals": [
+        "lucro fixo diário garantido",
+        "uso de IA e blockchain para parecer confiável",
+        "indicação de pessoas para aumentar rendimento",
+        "promessa de rendimento sem risco"
+      ],
+      "actions": [
+        "não envie dinheiro",
+        "não compartilhe dados pessoais",
+        "desconfie de promessas de lucro garantido",
+        "denuncie para órgãos de defesa do consumidor"
+      ]
+    },
+    {
+      "id": 1777556523027,
+      "createdAt": "2026-04-30T13:42:03.027Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "golpe de investimento com pirâmide financeira",
+      "structure": "promessa de lucro fixo diário + uso de IA/blockchain + indicação para dobrar rendimento",
+      "signals": [
+        "lucro fixo diário garantido",
+        "uso de IA e blockchain para parecer confiável",
+        "indicação de pessoas para aumentar ganhos",
+        "saques programados toda semana"
+      ],
+      "actions": [
+        "não envie dinheiro",
+        "não indique outras pessoas",
+        "desconfie de promessas de lucro fácil",
+        "busque informações em órgãos oficiais"
+      ]
+    },
+    {
+      "id": 1777556883890,
+      "createdAt": "2026-04-30T13:48:03.890Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "golpe de investimento com robô e indicação",
+      "structure": "promessa de lucro fixo diário + uso de IA/blockchain + indicação para aumentar ganhos",
+      "signals": [
+        "lucro fixo diário garantido",
+        "uso de robô, IA e blockchain para parecer confiável",
+        "indicação de pessoas para aumentar rendimento",
+        "promessa de retorno rápido e alto"
+      ],
+      "actions": [
+        "não envie dinheiro para desconhecidos",
+        "não compartilhe dados pessoais",
+        "desconfie de promessas de lucro garantido",
+        "consulte órgãos oficiais antes de investir"
+      ]
+    },
+    {
+      "id": 1777557389029,
+      "createdAt": "2026-04-30T13:56:29.029Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "pirâmide financeira / esquema Ponzi",
+      "structure": "investimento inicial + lucro fixo diário + indicação de pessoas para aumentar ganhos",
+      "signals": [
+        "lucro fixo diário garantido",
+        "uso de IA e blockchain para parecer confiável",
+        "indicação de pessoas para dobrar ganhos",
+        "promessa de retorno rápido e fácil"
+      ],
+      "actions": [
+        "não envie dinheiro",
+        "não indique outras pessoas",
+        "desconfie de promessas de lucro garantido",
+        "denuncie em órgãos oficiais"
+      ]
+    },
+    {
+      "id": 1777557814244,
+      "createdAt": "2026-04-30T14:03:34.244Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "golpe de investimento / pirâmide financeira",
+      "structure": "promessa de lucro fixo diário + uso de IA/blockchain + indicação para dobrar rendimento",
+      "signals": [
+        "lucro fixo diário garantido",
+        "uso de IA e blockchain para parecer confiável",
+        "indicação de pessoas para aumentar ganhos",
+        "promessa de rendimento dobrado"
+      ],
+      "actions": [
+        "não envie dinheiro",
+        "não indique outras pessoas",
+        "denuncie à polícia e ao Procon",
+        "verifique no site do Banco Central e CVM"
+      ]
+    },
+    {
+      "id": 1777557915584,
+      "createdAt": "2026-04-30T14:05:15.584Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "golpe de investimento com robô",
+      "structure": "promessa de lucro fixo diário usando robô automatizado",
+      "signals": [
+        "promessa de lucro fixo diário",
+        "uso da palavra 'robô' para parecer confiável",
+        "investimento inicial baixo e retorno garantido",
+        "falta de informações claras e reguladas"
+      ],
+      "actions": [
+        "não envie dinheiro",
+        "não compartilhe dados pessoais",
+        "desconfie de promessas de lucro garantido",
+        "consulte órgãos oficiais antes de investir"
+      ]
+    },
+    {
+      "id": 1777558238141,
+      "createdAt": "2026-04-30T14:10:38.141Z",
+      "source": "openai",
+      "risk": "medio",
+      "title": "Mensagem suspeita",
+      "scamType": "golpe de investimento",
+      "structure": "convite genérico para investir valor fixo sem detalhes",
+      "signals": [
+        "convite genérico",
+        "sem detalhes do investimento",
+        "valor fixo sugerido",
+        "sem contato oficial"
+      ],
+      "actions": [
+        "não envie dinheiro sem verificar",
+        "pesquise a empresa ou pessoa",
+        "não clique em links suspeitos",
+        "consulte órgãos oficiais"
+      ]
+    },
+    {
+      "id": 1777558268535,
+      "createdAt": "2026-04-30T14:11:08.535Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "golpe de investimento com promessa de lucro fixo",
+      "structure": "promessa de retorno diário fixo após investimento inicial",
+      "signals": [
+        "promessa de lucro fixo diário",
+        "retorno garantido em curto prazo",
+        "valor inicial para investimento",
+        "sem informações claras sobre a empresa"
+      ],
+      "actions": [
+        "não envie dinheiro",
+        "não compartilhe dados pessoais",
+        "pesquise a empresa em órgãos oficiais",
+        "denuncie em plataformas de proteção ao consumidor"
+      ]
+    },
+    {
+      "id": 1777558765468,
+      "createdAt": "2026-04-30T14:19:25.468Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falsa central jurídica com pedido de Pix",
+      "structure": "promessa de dinheiro com cobrança de taxa via Pix para liberação",
+      "signals": [
+        "pedido de pagamento via Pix",
+        "promessa de valor alto para receber",
+        "urgência para pagar taxa judicial",
+        "não há confirmação oficial do processo"
+      ],
+      "actions": [
+        "não realize o pagamento",
+        "não forneça dados pessoais",
+        "confirme diretamente com o tribunal oficial",
+        "denuncie a mensagem às autoridades"
+      ]
+    },
+    {
+      "id": 1777571661842,
+      "createdAt": "2026-04-30T17:54:21.842Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falso familiar pedindo Pix",
+      "structure": "pedido urgente de Pix alegando troca de número e celular quebrado",
+      "signals": [
+        "pedido urgente de Pix",
+        "troca de número inesperada",
+        "alegação de celular quebrado",
+        "mensagem curta e direta"
+      ],
+      "actions": [
+        "ligue para o número antigo do familiar",
+        "não faça Pix sem confirmação",
+        "desconfie de urgência incomum",
+        "avise outros familiares sobre o golpe"
+      ]
+    },
+    {
+      "id": 1777572145369,
+      "createdAt": "2026-04-30T18:02:25.369Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falsa central bancária",
+      "structure": "pedido de dados pessoais via link para desbloqueio falso",
+      "signals": [
+        "pedido de CPF, senha e token",
+        "link para confirmação",
+        "ameaça de bloqueio do cartão",
+        "urgência para liberar conta"
+      ],
+      "actions": [
+        "não clique no link",
+        "não informe seus dados",
+        "contate seu banco por canais oficiais",
+        "exclua a mensagem"
+      ]
+    },
+    {
+      "id": 1777572219329,
+      "createdAt": "2026-04-30T18:03:39.329Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falsa central bancária / falso escritório de advocacia",
+      "structure": "pedido urgente de pagamento via Pix para liberação de processo",
+      "signals": [
+        "pedido de pagamento via Pix",
+        "urgência para liberar processo",
+        "não confirma dados do processo",
+        "uso genérico de 'escritório de advocacia'"
+      ],
+      "actions": [
+        "contate seu advogado oficial",
+        "verifique diretamente no tribunal",
+        "não envie Pix sem confirmação",
+        "desconfie de mensagens urgentes e genéricas"
+      ]
+    },
+    {
+      "id": 1777572280449,
+      "createdAt": "2026-04-30T18:04:40.449Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falso pagamento via Pix",
+      "structure": "oferta irreal com pagamento imediato via Pix para envio",
+      "signals": [
+        "preço muito abaixo do mercado",
+        "pagamento imediato via Pix",
+        "promoção urgente e exclusiva",
+        "sem link ou contato oficial"
+      ],
+      "actions": [
+        "não envie Pix sem confirmação",
+        "verifique site oficial da loja",
+        "desconfie de ofertas muito baratas",
+        "confirme com atendimento oficial"
+      ]
+    },
+    {
+      "id": 1777572682766,
+      "createdAt": "2026-04-30T18:11:22.766Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falsa central bancária / falso advogado",
+      "structure": "pedido urgente de pagamento via Pix para liberação de processo",
+      "signals": [
+        "pedido de pagamento via Pix",
+        "urgência para liberar processo",
+        "mensagem de escritório de advocacia não solicitada",
+        "taxa judicial cobrada antecipadamente"
+      ],
+      "actions": [
+        "não realize o pagamento",
+        "confirme diretamente com o tribunal ou advogado oficial",
+        "não forneça dados pessoais ou bancários",
+        "denuncie a mensagem às autoridades"
+      ]
+    },
+    {
+      "id": 1777572781443,
+      "createdAt": "2026-04-30T18:13:01.443Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falsa oferta com pagamento via Pix",
+      "structure": "oferta irreal com preço muito abaixo do mercado e pagamento imediato via Pix",
+      "signals": [
+        "preço muito abaixo do mercado",
+        "pagamento imediato via Pix",
+        "urgência para garantir envio",
+        "produto eletrônico caro em promoção exclusiva"
+      ],
+      "actions": [
+        "não envie dinheiro via Pix para desconhecidos",
+        "verifique a reputação do vendedor",
+        "desconfie de ofertas muito vantajosas",
+        "confirme a oferta em canais oficiais"
+      ]
+    },
+    {
+      "id": 1777573407301,
+      "createdAt": "2026-04-30T18:23:27.301Z",
+      "source": "openai",
+      "risk": "medio",
+      "title": "Mensagem suspeita",
+      "scamType": "apostas e cassino online",
+      "structure": "promessa de ganho fácil com jogo de azar",
+      "signals": [
+        "promessa de ganhar dinheiro rápido",
+        "jogo estilo caça-níquel",
+        "anúncio patrocinado",
+        "promoção de app para apostas"
+      ],
+      "actions": [
+        "não confie em ganhos garantidos",
+        "pesquise avaliações do app",
+        "evite fornecer dados pessoais",
+        "use apenas apps oficiais e reconhecidos"
+      ]
+    },
+    {
+      "id": 1777573467343,
+      "createdAt": "2026-04-30T18:24:27.343Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "cassino/apostas falsas",
+      "structure": "promessa de prêmios fáceis para atrair depósito em app de apostas",
+      "signals": [
+        "promessa de dinheiro fácil",
+        "app de apostas/cassino",
+        "convite para jogar da maneira certa",
+        "promessa de rodadas grátis"
+      ],
+      "actions": [
+        "não baixe o app",
+        "não envie dinheiro",
+        "ignore anúncios assim",
+        "use apps oficiais e confiáveis"
+      ]
+    },
+    {
+      "id": 1777573502179,
+      "createdAt": "2026-04-30T18:25:02.179Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falso QR Code para roubo de criptoativos",
+      "structure": "carta falsa com QR Code para atualização urgente que rouba dados ou fundos",
+      "signals": [
+        "pedido urgente de atualização via QR Code",
+        "ameaça de perda de criptoativos",
+        "uso de nome Ledger sem confirmação oficial",
+        "canal não oficial para atualização"
+      ],
+      "actions": [
+        "não escanear o QR Code",
+        "verificar site oficial da Ledger",
+        "contatar suporte oficial da Ledger",
+        "ignorar cartas não solicitadas"
+      ]
+    },
+    {
+      "id": 1777896772579,
+      "createdAt": "2026-05-04T12:12:52.579Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "Golpe Pix urgente",
+      "structure": "Pedido urgente de Pix para liberar valor falso",
+      "signals": [
+        "Pedido urgente de Pix",
+        "Promessa de liberação de valor",
+        "Pressão para pagamento rápido",
+        "Mensagem inesperada"
+      ],
+      "actions": [
+        "Não envie Pix sem confirmar",
+        "Ligue para a pessoa ou empresa oficial",
+        "Não clique em links ou forneça dados",
+        "Denuncie no site do consumidor ou banco"
+      ]
+    },
+    {
+      "id": 1777896894723,
+      "createdAt": "2026-05-04T12:14:54.723Z",
+      "source": "openai",
+      "risk": "alto",
+      "title": "Golpe provável",
+      "scamType": "falsa central bancária / falso advogado",
+      "structure": "pedido urgente de pagamento via Pix para liberação de processo",
+      "signals": [
+        "pedido de pagamento via Pix",
+        "urgência para liberar alvará",
+        "mensagem de escritório de advocacia não confirmada",
+        "taxa judicial solicitada por mensagem"
+      ],
+      "actions": [
+        "não realize pagamento via Pix",
+        "confirme diretamente com o tribunal ou advogado oficial",
+        "não forneça dados pessoais ou bancários",
+        "desconfie de mensagens urgentes pedindo dinheiro"
+      ]
+    }
+  ]
+}

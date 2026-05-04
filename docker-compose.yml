@@ -1,0 +1,10 @@
+services:
+  egolpe-server:
+    build: .
+    container_name: egolpe-server
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - PORT=3000
